@@ -1,0 +1,20 @@
+{
+  "bootstrapped": true,
+  "channels":
+  [
+    "https://raw.githubusercontent.com/fayou147/GitOrder/master/json/channel_v3.json"
+  ],
+  "in_process_packages":
+  [
+  ],
+  "installed_packages":
+  [
+    "LaTeX-cwl",
+    "LaTeXTools",
+    "Markdown Extended",
+    "MarkdownPreview",
+    "OmniMarkupPreviewer",
+    "Package Control",
+    "Tomorrow Color Schemes"
+  ]
+}
